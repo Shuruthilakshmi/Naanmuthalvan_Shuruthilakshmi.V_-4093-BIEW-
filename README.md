@@ -12,6 +12,7 @@ LOGIN PAGE:you have to enter the username& password
 dependencies: pip install -r requirements.txt
 
 Migrations: python manage.py makemigrations
+
             python manage.py migration
 
 Python manage.py runserver
